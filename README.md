@@ -26,7 +26,7 @@ Menu kedua yaitu Tambah Collection. Tambahkan brand dan seri dari diecast untuk 
 # Kondisi 5
 <img width="527" height="181" alt="Screenshot 2025-09-28 205202" src="https://github.com/user-attachments/assets/643fc4dd-9cb8-44a7-980b-869e102db144" />
 
-List Collection yang akan keluar setelah menambahkan koleksi
+Lihat Collection yang akan keluar setelah menambahkan koleksi
 # Kondisi 6
 <img width="458" height="124" alt="Screenshot 2025-09-28 205343" src="https://github.com/user-attachments/assets/94944750-0ed5-4a6d-882f-93c81f3d04d8" />
 
